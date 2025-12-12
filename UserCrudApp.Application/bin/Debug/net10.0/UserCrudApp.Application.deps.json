@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UserCrudApp.Application/1.0.0": {
+        "dependencies": {
+          "UserCrudApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UserCrudApp.Application.dll": {}
+        }
+      },
+      "UserCrudApp.Domain/1.0.0": {
+        "runtime": {
+          "UserCrudApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserCrudApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserCrudApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

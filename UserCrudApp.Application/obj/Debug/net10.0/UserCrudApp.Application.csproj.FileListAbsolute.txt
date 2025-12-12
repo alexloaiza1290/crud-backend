@@ -1,0 +1,15 @@
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\bin\Debug\net10.0\UserCrudApp.Application.deps.json
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\bin\Debug\net10.0\UserCrudApp.Application.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\bin\Debug\net10.0\UserCrudApp.Application.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\bin\Debug\net10.0\UserCrudApp.Domain.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\bin\Debug\net10.0\UserCrudApp.Domain.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.csproj.AssemblyReference.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.AssemblyInfoInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.AssemblyInfo.cs
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrud.48FC5B2B.Up2Date
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\refint\UserCrudApp.Application.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\UserCrudApp.Application.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Application\obj\Debug\net10.0\ref\UserCrudApp.Application.dll

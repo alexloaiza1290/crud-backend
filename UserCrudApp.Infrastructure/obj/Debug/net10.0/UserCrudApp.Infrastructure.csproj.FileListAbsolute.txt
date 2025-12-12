@@ -1,0 +1,17 @@
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Infrastructure.deps.json
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Infrastructure.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Infrastructure.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Application.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Domain.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Application.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\bin\Debug\net10.0\UserCrudApp.Domain.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.AssemblyInfo.cs
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrud.80DBD09D.Up2Date
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\refint\UserCrudApp.Infrastructure.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\UserCrudApp.Infrastructure.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Infrastructure\obj\Debug\net10.0\ref\UserCrudApp.Infrastructure.dll

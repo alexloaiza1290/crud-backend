@@ -1,0 +1,11 @@
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\bin\Debug\net10.0\UserCrudApp.Domain.deps.json
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\bin\Debug\net10.0\UserCrudApp.Domain.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\bin\Debug\net10.0\UserCrudApp.Domain.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.AssemblyInfoInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.AssemblyInfo.cs
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\refint\UserCrudApp.Domain.dll
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\UserCrudApp.Domain.pdb
+C:\Users\loaiz001\Desktop\UserCrudApp\UserCrudApp.Domain\obj\Debug\net10.0\ref\UserCrudApp.Domain.dll
